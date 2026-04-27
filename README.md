@@ -1,7 +1,7 @@
 # Sports Field Booking App
 
 Aplikasi mobile berbasis Flutter untuk melakukan booking lapangan olahraga secara online.  
-Aplikasi ini dibuat dengan fitur utama CRUD, Firebase Authentication, Notification, dan penggunaan resource smartphone Camera. Pada aplikasi ini, user bisa melakukan:
+Aplikasi ini dibuat dengan fitur utama CRUD, Firebase Authentication, Firebase Firestore, Notification, dan penggunaan resource smartphone Camera. Pada aplikasi ini, user bisa melakukan:
 - Login dan register akun
 - Melihat daftar lapangan
 - Melakukan booking berdasarkan tanggal dan jam
