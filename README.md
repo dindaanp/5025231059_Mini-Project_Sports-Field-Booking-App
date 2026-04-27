@@ -26,18 +26,23 @@ Aplikasi ini dibuat dengan fitur utama CRUD, Firebase Authentication, Notificati
 - Delete booking
 
 
-### 3. Booking System
-- Pilih tanggal
-- Pilih jam mulai & selesai
-- Validasi bentrok jadwal
-- Perhitungan total harga otomatis
-
-
-### 4. Camera (Smartphone Resource)
+### 3. Camera (Smartphone Resource)
 - Upload bukti pembayaran via:
   - Kamera
   - Galeri
 
 
+### 4. Firestore
+- Menyimpan data booking
+- Menyimpan data lapangan
+
+
 ### 5. Notification
 - Notifikasi lokal setelah booking berhasil
+
+
+### 6. Booking System
+- Pilih tanggal
+- Pilih jam mulai & selesai
+- Validasi bentrok jadwal
+- Perhitungan total harga otomatis
