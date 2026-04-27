@@ -1,0 +1,38 @@
+# FLUTTER
+.dart_tool/
+.packages
+.pub/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.metadata
+pubspec.lock
+
+# LOG & TEMP
+*.log
+*.tmp
+*.hprof
+
+# ANDROID
+.gradle/
+**/gradle-wrapper.jar
+/captures/
+/local.properties
+.cxx/
+
+# IOS
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/
+
+# VS CODE
+.vscode/
+
+# SYSTEM FILES
+.DS_Store
+Thumbs.db
+
+# SECURITY
+key.properties
+**/*.keystore
+**/*.jks
